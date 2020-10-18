@@ -118,11 +118,7 @@ project/plugins/project/
 *.log
 
 ### vscode ###
-.vscode/*
-.vscode/settings.json
-.vscode/tasks.json
-.vscode/launch.json
-.vscode/extensions.json
+**/.vscode
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,scala,sbt,vscode,metals,bloop
